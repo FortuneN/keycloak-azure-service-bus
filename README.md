@@ -1,2 +1,2 @@
-# -keycloak-azure-service-bus
+# keycloak-azure-service-bus
 Sends events to an azure service bus
